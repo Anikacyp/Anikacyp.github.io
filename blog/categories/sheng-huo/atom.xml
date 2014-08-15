@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[I’m Yaping]]></title>
-  <link href="http://Anikacyp.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活 | I’m Yaping]]></title>
+  <link href="http://Anikacyp.github.io/blog/categories/sheng-huo/atom.xml" rel="self"/>
   <link href="http://Anikacyp.github.io/"/>
   <updated>2014-08-15T15:36:47+08:00</updated>
   <id>http://Anikacyp.github.io/</id>
