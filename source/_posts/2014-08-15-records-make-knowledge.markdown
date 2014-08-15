@@ -8,6 +8,8 @@ comments: true
 categories: 生活
 ---
 
+![Mou icon](../images/post1.jpg)
+
 我决定开始记录一些东西啦。不管是对事情的理解，抑或一篇游记，还是自己内心的小牢骚。
 通过键盘记录下来，形成记忆的河流。
 
@@ -19,4 +21,4 @@ categories: 生活
 
 好啦，我要开始记录啦。做一个*积极、向上、乐于分享*的人，**加油，加油！**
 
-contact me <Anikacyp@gmail.com>.
+contact me<Anikacyp@gamil.com>.
