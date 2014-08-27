@@ -6,3 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
+
+IT girl, Independent, Work hard, Positive.
