@@ -6,7 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
-#About Me
 I am a master student of Computer Science, In my master period, I mainly study the **Influence Maximization** problem on Social Network. 
 
 Besides, I am also interested in *Data Mining* and *Machine Learning*, I am also learning the *statistics* and *probability theory*.  I hope you can communicate with me if you have any problems when you read my blogs.
